@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>    
     <GeneDef Name="EBSG_Interest" Abstract="True">
-        <geneClass>EBSGFramework.Gene_AptitudeChanging</geneClass>
+        <geneClass>EBSGFramework.Gene_SkillChanging</geneClass>
         <displayCategory>EBSG_Passions</displayCategory>
         <description>Carriers of this gene have one more level of passion for this skill.</description>
         <biostatCpx>1</biostatCpx>
